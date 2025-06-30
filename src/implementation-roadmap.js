@@ -3,3 +3,8 @@ export const stage1 = {
   "date": "2025-06-25",
   "message": "chore: initialize project structure"
 };
+
+export const stage2 = {
+  "date": "2025-06-30",
+  "message": "feat: add core domain model"
+};
