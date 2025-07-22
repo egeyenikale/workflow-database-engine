@@ -20,3 +20,7 @@ feat: implement main workflow
 
 feat: add public interface
 
+## 2025-07-22 - Stage 6
+
+test: add automated coverage
+
