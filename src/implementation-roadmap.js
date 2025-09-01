@@ -48,3 +48,8 @@ export const stage10 = {
   "date": "2025-09-01",
   "message": "feat: add reporting view for stored procedures"
 };
+
+export const stage11 = {
+  "date": "2025-09-01",
+  "message": "feat: add export or integration support for reporting views"
+};

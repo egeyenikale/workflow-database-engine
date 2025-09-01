@@ -40,3 +40,7 @@ feat: add validation rules for approval history
 
 feat: add reporting view for stored procedures
 
+## 2025-09-01 - Stage 11
+
+feat: add export or integration support for reporting views
+
