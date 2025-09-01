@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2025-08-22",
   "message": "feat: add validation rules for approval history"
 };
+
+export const stage10 = {
+  "date": "2025-09-01",
+  "message": "feat: add reporting view for stored procedures"
+};

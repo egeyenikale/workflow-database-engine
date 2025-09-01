@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for approval history
 
+## 2025-09-01 - Stage 10
+
+feat: add reporting view for stored procedures
+
