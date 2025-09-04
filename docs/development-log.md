@@ -44,3 +44,7 @@ feat: add reporting view for stored procedures
 
 feat: add export or integration support for reporting views
 
+## 2025-09-04 - Stage 12
+
+refactor: improve service boundaries for seed data
+
